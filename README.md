@@ -37,7 +37,7 @@ O objetivo principal deste projeto é explorar técnicas de visão computacional
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/BTMiranda/visao-computacional.git
+   git clone https://https://github.com/BTMiranda/SIN393-Projeto1-
    ```
 2. Instale os requisitos:
    ```bash
