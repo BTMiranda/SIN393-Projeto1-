@@ -10,6 +10,7 @@ Este repositório contém o projeto desenvolvido na disciplina **SIN 393 - Intro
 - **`dataset/`**: Contém os arquivos de dados utilizados no projeto, como imagens ou outros recursos necessários para o treinamento e teste do modelo.
 - **`Code.ipynb`**: Notebook Jupyter com o código do projeto, incluindo a implementação das técnicas utilizadas, pré-processamento dos dados e análise de resultados.
 - **`README.md`**: Este arquivo, contendo informações detalhadas sobre o repositório.
+- **`Relatório - Projeto 1.pdf`**: Relatório gerado de acordo com a execução do código do projeto.
 
 ---
 
